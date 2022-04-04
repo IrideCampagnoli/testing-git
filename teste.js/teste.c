@@ -2,7 +2,7 @@
 
 int main (){
     for (int i = 0; i < 10 ; i++){
-        printf("Eu odeio o Armando \n");
+        printf("Eu estou aprendendo git \n");
     }
 
     return 0;
